@@ -1,4 +1,4 @@
-Rajzátbla
+Rajztábla
 =========
 
 Rajztábla: laborházi a Mikrokontroller laboratórium tantárgyra.
